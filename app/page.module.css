@@ -1,0 +1,42 @@
+.main {
+	max-width: 48rem;
+	margin: 0 auto;
+	padding: 2.5rem;
+}
+
+.title {
+	margin: 0 0 1rem;
+	font-size: 2.25rem;
+	line-height: 2.5rem;
+	font-weight: 700;
+}
+
+.intro {
+	margin: 0 0 1.5rem;
+	font-size: 1.125rem;
+	line-height: 1.75rem;
+}
+
+.sectionTitle {
+	margin: 0 0 0.5rem;
+	font-size: 1.5rem;
+	line-height: 2rem;
+	font-weight: 600;
+}
+
+.projectsList {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: grid;
+	gap: 1rem;
+}
+
+.projectTitle {
+	margin: 0;
+	font-weight: 700;
+}
+
+.projectDescription {
+	margin: 0;
+}
